@@ -1,4 +1,4 @@
-Celiart - A Jekyll Based Shopping Cosul meu Built with simpleCart(js)
+Celiart - A Jekyll Based Shopping cart Built with simpleCart(js)
 
 Copyright (C) 2017 by Brad West - http://bradonomics.com
 

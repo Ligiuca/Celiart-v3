@@ -173,7 +173,6 @@ function validateForm() {
         if (typeof sendOrder === "function") {
             sendOrder();
             simpleCart.empty();
-            document.getElementById('Checkout').reset();
             document.location.href = '/confirm-order/';
         }
         submitted = true;
