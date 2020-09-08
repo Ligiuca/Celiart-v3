@@ -1,0 +1,78 @@
+# Site Settings
+title: Celiart
+description: A Celiart Based Shopping Cart Built with simpleCart(js)
+url: "https://celiart.ro"
+
+# Jekyll Configuration
+encoding: UTF-8
+permalink: /:title/
+paginate: 5
+paginate_path: "/blog/page/:num/"
+
+# Markdown Processing
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Sass/SCSS settings
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Custom Collections
+collections:
+  produse:
+    output: true
+  personalizari:
+    output: true
+
+# Collection Defaults
+defaults:
+# - scope:
+#     type: posts
+#   values:
+#     layout: post
+- scope:
+    type: pages
+  values:
+    layout: page
+- scope:
+    type: produse
+  values:
+    layout: produs
+- scope:
+    type: personalizari
+  values:
+    layout: personalizare
+
+# Frontmatter Defaults
+sidebar_options:
+  - sidebar
+  - no-sidebar
+
+# File Handling
+# include: [_pages]
+exclude: [lib, config.rb, .sass-cache, Capfile, config, log, Rakefile, Rakefile.rb, tmp, Gemfile, Gemfile.lock, README.md, LICENSE.md, node_modules, gulpfile.js, package.json]
+
+# Plugins
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-paginate
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  permalinks:
+    categories: '/category/:name/'
+    tags: '/tag/:name/'
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

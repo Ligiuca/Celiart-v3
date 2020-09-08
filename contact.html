@@ -1,0 +1,29 @@
+---
+title: Contact
+emails: ligiabodnaras@yahoo.com
+description:
+facebook_image_path:
+---
+
+<p class="editable">Ne-ar place să auzim părerea ta!</p>
+
+
+<form method="post" action="" onsubmit="event.preventDefault(); validateForm();" id="contactForm">
+  <label>Nume și prenume</label>
+  <input type="text" name="name" id="name">
+
+  <label>Email</label>
+  <input type="text" name="email" id="email">
+
+  <label>Mesajul dumneavoastră</label>
+  <textarea name="message" id="message"></textarea>
+
+  <input type="hidden" value="{{ page.emails | join: ',' }}" name="_to">
+  <input type="text" style="display: none;" name="_gotcha">
+
+  <input type="submit" value="Trimite mesaj">
+</form>
+
+<script async src="/js/contact-email.js"></script>
+<script async src="/js/validate-email.js"></script>
+<script src="https://smtpjs.com/v3/smtp.js"></script>
