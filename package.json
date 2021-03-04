@@ -1,18 +1,14 @@
 {
-  "name": "jekyll-cart",
+  "name": "Celiart",
   "version": "0.1.0",
-  "description": "A Jekyll based shopping cart built with simpleCart(js).",
+  "description": "Cart for shopping",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bradonomics/jekyll-cart.git"
+    "url": "git+https://github.com/Celiart/Celiart-v3.git"
   },
-  "author": "Brad West",
+  "author": "Ligia Bodnaras",
   "license": "GPL-2.0",
-  "bugs": {
-    "url": "https://github.com/bradonomics/jekyll-cart/issues"
-  },
-  "homepage": "https://github.com/bradonomics/jekyll-cart#readme",
   "devDependencies": {
     "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
