@@ -6,7 +6,7 @@ featured_image_path:
 facebook_image_path:
 ---
 
-Bine ai venit în lumea artei. Pregătește-te să te bucuri de experiența ta aici, și de serviciile pe care noi ți le putem oferi. Am realizat acest magazin online pentru ca mulți să poată comanda artă, sub diferite forme. Fie că este vorba de realizarea unui portret, sau de lucururi personalizate, noi îți putem îndeplini dorința! Poți găsi în secțiunea products lucurile pe care le avem deja expuse, sau în secțiunea personalizări de unde poți comanda diferite obiecte care să aibă amprenta ta. Începe de acum călătoria artei!
+Bine ai venit în lumea artei. Pregătește-te să te bucuri de experiența ta aici, și de serviciile pe care noi ți le putem oferi. Am realizat acest magazin online pentru ca mulți să poată comanda artă, sub diferite forme. Fie că este vorba de realizarea unui portret, sau de lucururi personalizate, noi îți putem îndeplini dorința! Poți găsi în secțiunea _Products_ lucurile pe care le avem deja expuse, sau în secțiunea _Personalizări_ de unde poți comanda diferite obiecte care să aibă amprenta ta. Începe de acum călătoria artei!
 
 <!-- carusel -->
 <!-- css -->
@@ -304,7 +304,7 @@ Bine ai venit în lumea artei. Pregătește-te să te bucuri de experiența ta a
         Ochiul uman poate distinge în jur de 10 milioane de culori diferite.
     </li>
     <li>
-        Michelangelo a realizat Pietà(sculptură a Madonnei si fiului ei) la vârsta de 24 de ani.
+        Michelangelo a realizat Pietà (sculptură a Madonnei si fiului ei) la vârsta de 24 de ani.
     </li>
     <li>
         În anul 1549, Michelangelo a fost numit de Papă „arhitect-șef și constructor al bazilicii Sfântul Petru”
@@ -342,8 +342,8 @@ Bine ai venit în lumea artei. Pregătește-te să te bucuri de experiența ta a
 
         <p>Site-ul nostru oferă posibilitatea de achiziționare a artei deja expusă, și nu în ultimul rând îi dă
             posibilitatea cumpărătrului de a cumpăra tablouri/semne de carte/lucruri personalizate pe comandă. Aceasta
-            însemnând că după preferințele cumpărătorului se va stabili tema tabloului(ex. Natură statică, portrete,
-            artă abstractă) sau tema/citatul/desenul pentru personalizarea diferitelor obiecte(tricouri, semne de carte,
+            însemnând că după preferințele cumpărătorului se va stabili tema tabloului (ex. Natură statică, portrete,
+            artă abstractă) sau tema/citatul/desenul pentru personalizarea diferitelor obiecte (tricouri, semne de carte,
             etc.) și nu în ultimul rând stabilirea formelor pentru brelocuri.</p>
 
         <h3>Satisfacție garantată</h3>
